@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koldo -> Saolino</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<center>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
